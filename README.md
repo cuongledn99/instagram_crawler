@@ -2,3 +2,9 @@
 This project crawl images from Instagram using puppeteer node package
 
 Demo video: https://video.fsgn2-2.fna.fbcdn.net/v/t42.1790-2/53919951_1296865427137104_8440182697434808320_n.mp4?_nc_cat=102&vs=91cec731e00428f1&_nc_vs=HBksFQAYJEdNLUFOZ05RSWhzRGZwc0VBQUFBQUFCeWpTRjFidjRHQUFBRhUAABUAGCRHRVNWTmdPVkVPaE1HcWNIQUFBQUFBQzVwM290YnY0R0FBQUYVAgBLAYgScHJvZ3Jlc3NpdmVfcmVjaXBlATEVACUAHAAAGA8xMDAwMDY2NzM2MzQ3ODkWgvSP8e2jtQgVAhkFGAJDMxgLdnRzX3ByZXZpZXccF0BURsi0OVgQGBhkYXNoX3Y0X2hxMl9mcmFnXzJfdmlkZW8SABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kGRwVABWE%2BQIAKBJWSURFT19WSUVXX1JFUVVFU1QbA4gVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zDTE1NjUzMzMwNTgxODYMb2VtX2NmZ19ydWxlB3VubXV0ZWQlAgA%3D&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_oc=AQn4FV565BoRnOebd_WuNhwpE3n98_8zqmqvcvR4dAVKK-3imEpLYefIdYYvJgfWF5c&_nc_ht=video.fsgn2-2.fna&oh=dea667faf5655fe06afe3b5acaaa7453&oe=5D4D36A9&_nc_rid=22f0496ef9d84b0
+
+
+How to setup ?
+- Open index.js
+- Edit "insURL" to your favourite instagram url
+- Edit "numberOfImages" 
