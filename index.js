@@ -2,7 +2,14 @@ const puppeteer=require('puppeteer');
 const fs=require('fs');
 const downloader=require('image-downloader');
 
+/**
+ * replace your instagram url here
+ */
 var insURL='https://www.instagram.com/onlyprfectgirls/?hl=en';
+
+/**
+ * how many images you want to crawl
+ */
 var numberOfImages=50;
 
 function GetLargestImageFromSrcSet(srcset){
