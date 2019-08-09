@@ -8,3 +8,5 @@ How to setup ?
 - Open index.js
 - Edit "insURL" to your favourite instagram url
 - Edit "numberOfImages" 
+
+The crawled images will be saved to "images" folder
