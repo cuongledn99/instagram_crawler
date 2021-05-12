@@ -5,7 +5,7 @@
     "formidable": "^1.2.1",
     "image-downloader": "^3.4.2",
     "mongodb": "^3.1.13",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.18.10",
     "puppeteer": "^1.12.2",
     "upper-case": "^1.1.3"
